@@ -85,7 +85,7 @@ void loop (){
 
 //--------------------------------------------------------------------------------
 
-// The following seven supporting subroutines were downloaded from the 
+// The following two supporting subroutines were downloaded from the 
 // controller's Product Page at the link below and used here unchanged:
 // http://letsmakerobots.com/commotion-shield-omni-and-mecanum-wheel-robots
 
